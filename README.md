@@ -16,3 +16,7 @@ The voltage divider at the non-inverting input of the operational amplifier sets
 I assembled the circuit on a 40x50 mm prototyping board. Since I needed to cool two separate heatsinks, I utilized the second channel of the op-amp LM358.
 
 ![Overheat detector - PCB](https://github.com/nva1773/-DC-12-0.8-PWM-/blob/main/Foto/Overheat%20detector%20-%20pcb.jpg)
+
+Added folder 3D files for the PWM module holder with snap-fits:
+
+![Overheat detector - PCB](https://github.com/nva1773/-DC-12-0.8-PWM-/blob/main/Foto/Holder%20for%20PWM%20module.jpg)
